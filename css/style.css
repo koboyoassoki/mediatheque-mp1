@@ -113,7 +113,7 @@ a:focus-visible, button:focus-visible, select:focus-visible {
 
 /* Pied de page */
 .pied { background: var(--encre); color: #c8d3e0; padding-block: 1.2rem; font-size: .9rem; }
-.pied p { margin: 0; }
+.pied p { margin: 0; text-align: center; }
 
 /* Mobile : le tableau devient une pile de blocs */
 @media (max-width: 640px) {
