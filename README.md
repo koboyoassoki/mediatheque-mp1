@@ -21,7 +21,7 @@ Vérifier la version de PHP : `php -v`
 ### Avec le serveur intégré de PHP
 
 ```bash
-git clone <url-du-depot>
+git clone    https://github.com/koboyoassoki/mediatheque-mp1.git
 cd mediatheque-mp1
 php -S localhost:8000
 ```
